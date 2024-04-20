@@ -1,5 +1,5 @@
 {
-  "name": "electron-demo",
+  "name": "electron-official-demo",
   "version": "0.0.0",
   "description": "[Electron 官网 Demo](https://www.electronjs.org/zh/docs/latest/tutorial/examples)",
   "main": "demo-1-darkMode/main.js",
