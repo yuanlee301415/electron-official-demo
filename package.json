@@ -1,0 +1,19 @@
+{
+  "name": "electron-demo",
+  "version": "0.0.0",
+  "description": "[Electron 官网 Demo](https://www.electronjs.org/zh/docs/latest/tutorial/examples)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
